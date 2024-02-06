@@ -8,6 +8,9 @@ Reverse shell that can bypass EDR and windows defender detection
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
     $ apt install nim
 
+# clone on replit
+[![Run on Replit](https://replit.com/badge/github/tucommenceapousser/nim-shell)](https://replit.com/github/tucommenceapousser/nim-shell)
+
 # Compilation
 
 # for windows
