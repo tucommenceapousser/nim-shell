@@ -17,7 +17,7 @@ nim c -d:mingw --app:gui nimshelllin.nim
 
 
 
-<img src="https://github.com/emrekybs/nim-shell/blob/main/1.png">
+<img src="[https://github.com/rainbowhatrkn/nim-shelm/blob/main/1.png">
 
 Change the IP address and port number you want to listen to in the nimshell.nim file according to your device.
 
