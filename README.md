@@ -1,4 +1,4 @@
-[![trhacknon](https://img.shields.io/badge/MadeBy-Trhacknon-yellow)
+![trhacknon](https://img.shields.io/badge/MadeBy-Trhacknon-yellow)
 # Nim-Shell
 <img src="https://github.com/tucommenceapousser/nim-shell/blob/main/nim.png">
 Reverse shell that can bypass EDR and windows defender detection
