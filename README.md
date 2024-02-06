@@ -1,6 +1,6 @@
 [![trhacknon](https://img.shields.io/badge/MadeBy-Trhacknon-yellow)
 # Nim-Shell
-<img src="https://github.com/tucommenceapousser/nim-shelm-1/blob/main/scwin.jpg">
+<img src="https://github.com/tucommenceapousser/nim-shell/blob/main/nim.png">
 Reverse shell that can bypass EDR and windows defender detection
 
 # Please do not upload to VirusTotal
@@ -9,7 +9,12 @@ Reverse shell that can bypass EDR and windows defender detection
     $ apt install nim
 
 # Compilation
+# for windows
 nim c -d:mingw --app:gui nimshell.nim
+
+
+<img src="https://github.com/tucommenceapousser/nim-shelm-1/blob/main/scwin.jpg">
+
 
 ## for linux:
 # Compilation
@@ -21,7 +26,7 @@ nim c -d:mingw --app:gui nimshelllin.nim
 
 Change the IP address and port number you want to listen to in the nimshell.nim file according to your device.
 
-<img src="https://github.com/tucommenceapousser/nim-shelm-1/blob/main/2.png">
+<img src="https://github.com/emrekybs/nim-shell/blob/main/2.png">
 
 # and listen
 
