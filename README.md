@@ -11,8 +11,14 @@ Reverse shell that can bypass EDR and windows defender detection
 # clone on replit
 [![Run on Replit](https://replit.com/badge/github/tucommenceapousser/nim-shell)](https://replit.com/github/tucommenceapousser/nim-shell)
 
-[![Run on Replit](https://replit.com/badge/replit/tucommenceapousser/nim-shell)](https://replit.com/github/tucommenceapousser/nim-shell)
+[![Run on Replit](https://replit.com/badge/github/tucommenceapousser/nim-shell)](https://replit.com/github/tucommenceapousser/nim-shell)![](https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white)
 
+
+ <a href="https://replit.com/github/tucommenceapousser/nim-shell">
+<img src="https://replit.com/badge/github/tucommenceapousser/nim-shell">
+
+[![Run on Replit with Nim](https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=Nim&logoColor=orange)](https://replit.com/github/tucommenceapousser/nim-shell)
+</a>
 # Compilation
 
 # for windows
