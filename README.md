@@ -1,6 +1,6 @@
 [![trhacknon](https://img.shields.io/badge/MadeBy-Trhacknon-yellow)
 # Nim-Shell
-<img src="https://github.com/tucommenceapousser/nim-shell/blob/main/nim.png">
+<img src="https://github.com/tucommenceapousser/nim-shell/blob/main/sc.jpg">
 Reverse shell that can bypass EDR and windows defender detection
 
 # Please do not upload to VirusTotal
